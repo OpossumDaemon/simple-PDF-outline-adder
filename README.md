@@ -60,3 +60,7 @@ python create_outline_pdf.py example.pdf example_outline example_output.pdf
 ## Limitations
 
 This tool doesn't seem to support Unicode characters, only ASCII
+
+## License
+
+This tool is public domain so do whatever you want with it. I'd appreciate you giving me credit though.
