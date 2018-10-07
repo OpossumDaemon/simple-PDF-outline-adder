@@ -43,3 +43,20 @@ created by separating them with spaces (or tab characters if you want).
 The "base" statement (also an integer number) tells the program which PDF page to point at when adding the outline entries
 below it. By default the base starts as 0.
 
+After you're done creating the outline, you must call the tool from the command line:
+
+```
+python create_outline_pdf.py input_pdf_file outline_file output_pdf_file 
+```
+
+After this, you can see the output PDF file containing the outline.
+
+You can refer to the example files example.pdf and example_outline. In this case you must enter this in the command line
+
+```
+python create_outline_pdf.py example.pdf example_outline example_output.pdf
+```
+
+## Limitations
+
+This tool doesn't seem to support Unicode characters, only ASCII
