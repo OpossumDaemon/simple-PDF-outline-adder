@@ -12,7 +12,7 @@ not match that of the PDF reader.
 
 Being a physics's student, it's pretty usual for me to find books that don't contain an outline in the PDF file,
 which was a pet peeve whenever I want to access a certain chapter or subsection of the book,
-and I didn't like the Ghostscript's way too add them, so I decided to create this simple tool for myself and then
+and I didn't like the Ghostscript's way to add them, so I decided to create this simple tool for myself and then
 release it for anyone that finds it useful.
 
 ## Requisites
